@@ -6,4 +6,3 @@ if idade >=18:
 else
  print("Você não é maior de idade.")
 
- teste
